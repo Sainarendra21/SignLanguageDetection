@@ -1,7 +1,3 @@
-Certainly! Below is a simple README file for your Sign Language to Text and Speech Conversion project:
-
----
-
 # Sign Language to Text and Speech Conversion
 
 ## Introduction
@@ -74,5 +70,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to [contributors](CONTRIBUTORS.md) who participated in this project.
 
 ---
-
-Feel free to customize this README file based on your project's specific details and requirements. Include any additional information or instructions that would be helpful for users and developers interacting with your project.
