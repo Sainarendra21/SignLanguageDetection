@@ -17,33 +17,6 @@ This project aims to develop a Sign Language Detection system that converts Indi
 - OpenCV
 - TensorFlow
 - gTTS (Google Text-to-Speech) library
-- Other dependencies (install using `pip install -r requirements.txt`)
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/sign-language-conversion.git
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   cd sign-language-conversion
-   pip install -r requirements.txt
-   ```
-
-3. Download the pre-trained model for hand gesture recognition (replace with your model):
-
-   [Link to Model](https://example.com/your_model.h5)
-
-4. Run the application:
-
-   ```bash
-   python main.py
-   ```
-
 ## Usage
 
 1. Launch the application.
