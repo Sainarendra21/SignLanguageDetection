@@ -38,8 +38,5 @@ This project aims to develop a Sign Language Detection system that converts Indi
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Special thanks to [contributors](CONTRIBUTORS.md) who participated in this project.
 
 ---
