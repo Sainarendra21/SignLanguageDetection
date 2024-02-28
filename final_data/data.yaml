@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../test/images
+
+nc: 11
+names: ['Excuse Me','Fine','Hi','How are you','I Love You','Namasthe','Nice','Not Ok','Please','Sorry','Thanks']
