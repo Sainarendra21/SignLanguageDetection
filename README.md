@@ -18,6 +18,13 @@ The YOLOv5s model is trained using the custom dataset for 300 epochs. During tra
 
 After training for 300 epochs, the model achieves satisfactory results in detecting sign language gestures. The accuracy and performance metrics are evaluated to assess the effectiveness of the model.
 
+## Sample Prediction
+
+Here is a sample prediction made by the trained model on an image from the test dataset:
+
+![Sample Prediction](runs/train/yolov5s_results/val_batch1_labels.jpg)
+
+
 ## Requirements
 
 - Python 3.x
